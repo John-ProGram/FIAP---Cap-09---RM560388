@@ -1,0 +1,30 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+legend {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+  text-align: center; 
+}
+
+.container {
+    width: 25%;
+    height: auto;
+    margin: 10px auto;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #8dc2ff;
+}
+
+label{
+    color: #ffffff;
+}
